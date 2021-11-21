@@ -11,3 +11,5 @@ npm install
 npm run builds
 npm start
 ```
+## 开始游戏
+通过按下键盘的上下左右按键开启游戏
